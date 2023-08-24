@@ -1,1 +1,1 @@
-# LinkedIn-Skills-Assessments-Quizzes
+LinkedIn Skills Assessments Quizzes
